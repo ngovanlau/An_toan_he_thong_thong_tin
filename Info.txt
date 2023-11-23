@@ -1,12 +1,18 @@
 password kali: kali2
 user: root
 password: 11
+
 accout maltago: ngovanlau2003@gmail.com
 pass: Lau@2151053034
+
 pass BT1: 261023
+
 pass BT2: 021123
+
 nessus: 2151053034lau@ou.edu.vn
 username: vanlau
-pass: lau2962003
+pass: l.......3
+
 pass BT3: 091123
+
 pass BT5: 231123
