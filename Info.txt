@@ -5,14 +5,18 @@ password: 11
 accout maltago: ngovanlau2003@gmail.com
 pass: Lau@2151053034
 
-pass BT1: 261023
+pass TH1: 261023
 
-pass BT2: 021123
+pass TH2: 021123
 
 nessus: 2151053034lau@ou.edu.vn
 username: vanlau
 pass: l.......3
 
-pass BT3: 091123
+pass TH3: 091123
 
-pass BT5: 231123
+pass TH5: 231123
+
+pass Affine: 251223
+
+pass TH7-10: 291223
